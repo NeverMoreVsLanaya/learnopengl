@@ -6,4 +6,5 @@ INCLUDEPATH += "/home/jiangfan/git_dir/LearnOpenGL/includes"
 SOURCES += main.cpp
 
 HEADERS += \
-    learnopengl/shader.h
+    learnopengl/shader.h \
+    learnopengl/camera.h
