@@ -7,4 +7,6 @@ SOURCES += main.cpp
 
 HEADERS += \
     learnopengl/shader.h \
-    learnopengl/camera.h
+    learnopengl/camera.h \
+    learnopengl/mesh.h \
+    learnopengl/model.h
